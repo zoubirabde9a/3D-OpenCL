@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fragmentShader.frag</file>
+        <file>vertexShader.vert</file>
+        <file>fragmentShader_3D.frag</file>
+        <file>vertexShader_3D.vert</file>
+        <file>plaster_material.png</file>
+        <file>cube.obj</file>
+        <file>untitled.obj</file>
+        <file>MaleLow.obj</file>
+        <file>tree.obj</file>
+    </qresource>
+</RCC>
